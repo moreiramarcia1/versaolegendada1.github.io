@@ -4,20 +4,13 @@ title: Sobre
 
 # Listed
 
-Listed is a minimalistic Hugo blogging theme.
+Projeto de aprendizagem autodidata em língua estrangeira, incluindo aquelas consideradas minoritárias.
 
 ### Features
 
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast
+
+meu projeto de aprendizagem autodidata de línguas estrangeiras, incluindo aquelas consideradas minoritárias.
+
+O motivo?
+
+Foi uma forma de retomar meus interesses de sempre e também reflete meu momento atual.
