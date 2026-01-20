@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "pt-br"
-title = "#Versão Legendada"
+title = "Versão Legendada"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -43,7 +43,7 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "Liste"
+  sitename = "#Versão Legendada"
   twitter = ""
 
 [permalinks]
