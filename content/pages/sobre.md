@@ -2,7 +2,7 @@
 title: Sobre
 ---
 
-# Listed
+# Sobre
 
 Projeto de aprendizagem autodidata em língua estrangeira, incluindo aquelas consideradas minoritárias.
 
