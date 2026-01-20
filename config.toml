@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "pt-br"
-title = "Liste"
+title = "#Versão Legendada"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
 pygmentsCodeFences = false
