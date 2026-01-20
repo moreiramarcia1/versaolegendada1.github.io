@@ -43,7 +43,7 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "#Versão Legendada"
+  sitename = "Versão Legendada"
   twitter = ""
 
 [permalinks]
